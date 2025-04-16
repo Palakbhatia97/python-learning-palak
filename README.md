@@ -5,6 +5,7 @@ This repository contains beginner-friendly Python scripts created during my lear
 ## Files Included:
  
 - *calculator_script.py* – Takes two numbers and choose option for operator (+, -, *, /) and returns the result using if-else logic
+- **atm_simulator.py** Simulates ATM functions using loops, input and conditions.
 
 ## Tools Used:
 - Python 3.x
